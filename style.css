@@ -144,7 +144,7 @@ div.btn{
     color: #224f34;
 }
 .products {
-  width: 100%;
+  width: 90%;
     display: flex;
     flex-wrap: wrap;
     margin-right: 5%;
